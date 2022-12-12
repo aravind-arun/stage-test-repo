@@ -5,11 +5,13 @@ id = 9739eab1-3f6c-4082-8396-d1333385982b
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"1255604-3ab3d968-fe2b-4e5b-a560-b4012ac2f42d","path":"Annotation Service Production Test Dec 11.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
